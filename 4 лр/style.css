@@ -1,0 +1,26 @@
+.container div {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    }
+    .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    }
+    #inp-val,
+    #res {
+    width: 970px;
+    height: 150px;
+    font-size: 20px;
+    margin-bottom: 25px;
+    }
+    .getRes {
+    width: 150px;
+    height: 50px;
+    }
+    
